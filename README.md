@@ -74,7 +74,7 @@
     title="GML"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Gamemaker_language.png" 
+    src="https://seeklogo.com/images/G/gamemaker-studio-logo-372476.svg" 
 />
 
 <img 
