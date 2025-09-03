@@ -70,13 +70,12 @@
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="GML" 
+    title="GML"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gml/gml-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Gamemaker_language.png" 
 />
-
 
 <img 
     align="left" 
