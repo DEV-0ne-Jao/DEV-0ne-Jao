@@ -74,7 +74,17 @@
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gml/gml-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="NetBeans" 
+    title="NetBeans"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" 
 />
 
 <br/>
