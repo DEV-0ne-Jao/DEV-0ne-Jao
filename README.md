@@ -49,6 +49,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
+/>
 </br>
 <br>
 ### 🤖 Linguagens e Tecnologias que futuramente saberei
