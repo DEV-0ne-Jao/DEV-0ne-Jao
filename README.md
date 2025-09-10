@@ -67,7 +67,7 @@
 />
 </br>
 <br>
-### 🤖 Linguagens e Tecnologias que futuramente saberei
+### 🤖 Linguagens e Tecnologias que quero aprender
 <img 
     align="left" 
     alt="PHP" 
