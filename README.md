@@ -57,6 +57,14 @@
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
 />
+<img 
+    align="left" 
+    alt="NetBeans" 
+    title="NetBeans"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" 
+/>
 </br>
 <br>
 ### 🤖 Linguagens e Tecnologias que futuramente saberei
@@ -83,15 +91,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://seeklogo.com/images/G/gamemaker-studio-logo-372476.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="NetBeans" 
-    title="NetBeans"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/master/icons/netbeans/netbeans-original.svg" 
 />
 
 <br/>
